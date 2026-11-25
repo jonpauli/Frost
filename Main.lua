@@ -1,7 +1,7 @@
 --!nocheck
 -- Lua, main.lua, Luau / Roblox Executor, Target: Consumer Script for frost.vip UI Library (Enhanced v3)
 
-local LibraryURL = "https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/library.lua"
+local LibraryURL = "https://raw.githubusercontent.com/jonpauli/Frost/refs/heads/main/Frost.lua"
 
 local FrostLibrary
 local success, result = pcall(function()
